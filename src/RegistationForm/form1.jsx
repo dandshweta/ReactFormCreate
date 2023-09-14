@@ -210,7 +210,7 @@ const Form1 = () => {
         </form>
       </div>
 
-      <div>
+      <div className="result">
         {submittedData && (
           <div>
             <h3>Form Output:</h3>

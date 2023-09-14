@@ -72,3 +72,8 @@ label {
   display: inline-block;
   margin-right: 20px;
 }
+.result {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
